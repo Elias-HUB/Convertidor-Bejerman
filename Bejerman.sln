@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejerman", "Bejerman\Bejerman.csproj", "{BE66677A-9B5D-4DEB-8CE4-B2DB0240418B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertidorBejerman", "ConvertidorBejerman\ConvertidorBejerman.csproj", "{B348EDEC-C065-42E5-ADFC-DC98F7176357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE66677A-9B5D-4DEB-8CE4-B2DB0240418B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE66677A-9B5D-4DEB-8CE4-B2DB0240418B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE66677A-9B5D-4DEB-8CE4-B2DB0240418B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE66677A-9B5D-4DEB-8CE4-B2DB0240418B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B348EDEC-C065-42E5-ADFC-DC98F7176357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B348EDEC-C065-42E5-ADFC-DC98F7176357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B348EDEC-C065-42E5-ADFC-DC98F7176357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B348EDEC-C065-42E5-ADFC-DC98F7176357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A523582-7494-4B59-A9A9-96F51F355D51}
+	EndGlobalSection
+EndGlobal
